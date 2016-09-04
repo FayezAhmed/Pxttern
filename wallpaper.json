@@ -1,8 +1,11 @@
 {
   "wallpapers": [
-    {
-      "author": "Tom Wellington",
+     {
+      "author": "Fayez Ahmed",
       "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-      "name": "East Branch",
+      "name": "Pxttern01",
       "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
-    },
+      },
+    ]
+  
+}
